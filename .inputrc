@@ -1,0 +1,4 @@
+Control-h: backward-word
+Control-j: next-history
+Control-k: previous-history
+Control-l: forward-word
